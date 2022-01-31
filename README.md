@@ -18,7 +18,7 @@ To provide the user back-end code for their e-commerce website that uses the lat
 
 ## E-commerce-Back-End Walkthrough Video Link
 
-[Insert here]
+https://watch.screencastify.com/v/t297J2kWgHdwUSQa2XXm
 
 ## Contribution
 
